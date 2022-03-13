@@ -128,7 +128,7 @@ class DaftarPage extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.w100,
-                  color: Color(0xffADADAD),
+                  color: Colors.blueGrey,
                 ),
               ),
               TextButton(
@@ -142,7 +142,7 @@ class DaftarPage extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 16,
                     fontWeight: FontWeight.w100,
-                    color: Color(0xffADADAD),
+                    color: Colors.blueGrey,
                   ),
                 ),
               )
